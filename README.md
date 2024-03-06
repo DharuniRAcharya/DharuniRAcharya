@@ -42,8 +42,11 @@ I'm a B.Tech Computer Science and Engineering undergrad @MIT, Manipal. My intere
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharuniracharya&show_icons=true&locale=en&layout=compact" alt="dharuniracharya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dharuniracharya&show_icons=true&locale=en" alt="dharuniracharya" /></p>
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dharuniracharya&show_icons=true&theme=gotham" alt="dharuniracharya" />
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharuniracharya&show_icons=true&locale=en&layout=compact" alt="dharuniracharya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharuniracharya&" alt="dharuniracharya" /></p>
