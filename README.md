@@ -8,7 +8,7 @@ I'm a B.Tech Computer Science and Engineering undergrad @MIT, Manipal. My intere
 
 - 👯 I’m looking to collaborate on **AI, DL, Cybersecurity, Web dev**
 
-- 👨‍💻 All of my projects are available at [https://portfoliodra.netlify.app/](https://portfoliodra.netlify.app/)
+- 👨‍💻 Portfolio website with projects are available [here](https://portfoliodra.netlify.app/)
 
 - 💬 Ask me about **Cryptography, DSA, Data Analytics**
 
