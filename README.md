@@ -48,11 +48,8 @@ I'm a B.Tech Computer Science and Engineering undergrad @MIT, Manipal. My intere
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharuniracharya&" alt="dharuniracharya" /></p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect through:</h3>
 <p align="left">
-<a href="https://discordapp.com/users/1115162103775514655">
-<img align="left" alt="Discord" width="50-px src="https://discord.com/assets/images/favicon.ico" />
-</a>
 <a href="https://www.linkedin.com/in/dhauni-r-acharya-271701288">
 <img align="left" alt="LinkedIn" width="50-px" src="https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_100_100/0/1638831590218/linkedin_logo?e=1710979200&v=beta&t=zZZPkNxGOvyrM96Chz8fLyWOTcZS-KjB6vYxhdz1tw4" />
 </a>
