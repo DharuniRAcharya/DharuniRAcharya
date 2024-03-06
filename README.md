@@ -14,9 +14,6 @@ I'm a B.Tech Computer Science and Engineering undergrad @MIT, Manipal. My intere
 
 - 💬 Ask me about **Cryptography, DSA, Data Analytics**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
@@ -50,3 +47,16 @@ I'm a B.Tech Computer Science and Engineering undergrad @MIT, Manipal. My intere
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharuniracharya&show_icons=true&locale=en&layout=compact" alt="dharuniracharya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharuniracharya&" alt="dharuniracharya" /></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discordapp.com/users/1115162103775514655">
+<img align="left" alt="Discord" width="50-px src="https://discord.com/assets/images/favicon.ico" />
+</a>
+<a href="https://www.linkedin.com/in/dhauni-r-acharya-271701288">
+<img align="left" alt="LinkedIn" width="50-px" src="https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_100_100/0/1638831590218/linkedin_logo?e=1710979200&v=beta&t=zZZPkNxGOvyrM96Chz8fLyWOTcZS-KjB6vYxhdz1tw4" />
+</a>
+<a href="mailto:contactdharuni@gmail.com">
+<img align="left" alt="GMail" width="60-px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+</a><br>
+</p>
