@@ -3,7 +3,7 @@
 <h3 align="center">An epitome of a tech enthusiast.. </h3>
 I'm a B.Tech Computer Science and Engineering undergrad @MIT, Manipal. My interested domains include coding, AI, Web dev, cybersecurity and cryptography.
 
-##About
+## About
 - 🔭 I’m currently working on **AI research projects and Cybersecurity**
 
 - 🌱 I’m currently learning **TensorFlow**
@@ -42,17 +42,20 @@ I'm a B.Tech Computer Science and Engineering undergrad @MIT, Manipal. My intere
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dharuniracharya&show_icons=true&theme=gotham" alt="dharuniracharya" />
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+<br><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anii693&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
+<br><br><br><br><br><br><br><br><br><br>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&theme=dark" alt="anii693" /></p>
+<br><br><br><br><br><br><br><br><br><br>
+<hr width="60%" >
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharuniracharya&show_icons=true&locale=en&layout=compact" alt="dharuniracharya" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharuniracharya&" alt="dharuniracharya" /></p>
-
-<h3 align="left">Connect through:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/dhauni-r-acharya-271701288">
-<img align="left" alt="LinkedIn" width="50-px" src="https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_100_100/0/1638831590218/linkedin_logo?e=1710979200&v=beta&t=zZZPkNxGOvyrM96Chz8fLyWOTcZS-KjB6vYxhdz1tw4" />
-</a>
+<a href="https://linkedin.com/in/dhauni-r-acharya-271701288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhauni-r-acharya-271701288" height="30" width="40" /></a>
+
 <a href="mailto:contactdharuni@gmail.com">
 <img align="left" alt="GMail" width="60-px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a><br>
