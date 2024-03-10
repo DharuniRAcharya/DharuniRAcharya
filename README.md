@@ -45,8 +45,11 @@ I'm a B.Tech Computer Science and Engineering undergrad @MIT, Manipal. My intere
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 <p><img align="left" padding="30" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharuniracharya&show_icons=true&theme=dark&locale=en&layout=compact" alt="dharuniracharya" /></p>
+<br>
 <p>&nbsp;<img align="left" padding="30" padding-bottom="50" src="https://github-readme-stats.vercel.app/api?username=dharuniracharya&show_icons=true&theme=dark&locale=en" alt="dharuniracharya" /></p>
+<br>
 <p><img align="left" padding="30" padding-top="80" src="https://github-readme-streak-stats.herokuapp.com/?user=dharuniracharya&theme=dark" alt="dharuniracharya" /></p>
+<hr width="60%" >
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
