@@ -42,21 +42,20 @@ I'm a B.Tech Computer Science and Engineering undergrad @MIT, Manipal. My intere
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" padding="15"/> </a> </p>
 
 <h3 align="left">📈 My Github Stats</h3>
-
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharuniracharya&show_icons=true&theme=dark&locale=en&layout=compact" alt="dharuniracharya" /></p>
+<p><img align="left" padding="30" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharuniracharya&show_icons=true&theme=dark&locale=en&layout=compact" alt="dharuniracharya" /></p>
 <br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dharuniracharya&show_icons=true&theme=dark&locale=en" alt="dharuniracharya" /></p>
+<p>&nbsp;<img align="left" padding="30" src="https://github-readme-stats.vercel.app/api?username=dharuniracharya&show_icons=true&theme=dark&locale=en" alt="dharuniracharya" /></p>
 <br><br><br><br><br><br><br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dharuniracharya&theme=dark" alt="dharuniracharya" /></p>
+<p><img align="left" padding="30" src="https://github-readme-streak-stats.herokuapp.com/?user=dharuniracharya&theme=dark" alt="dharuniracharya" /></p>
 <br><br><br><br><br><br><br>
 <hr width="60%" >
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/dhauni-r-acharya-271701288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhauni-r-acharya-271701288" height="30" width="40" padding="15"/></a>
+<a href="https://www.linkedin.com/in/dhauni-r-acharya-271701288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhauni-r-acharya-271701288" height="30" width="40" padding="20"/></a>
 <a href="mailto:contactdharuni@gmail.com">
-<img align="center" alt="Gmail" height="30" width="40" padding="15" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+<img align="center" alt="Gmail" height="30" width="40" padding="20" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a><br>
 </p>
