@@ -6,7 +6,7 @@ I'm a B.Tech Computer Science and Engineering undergrad @MIT, Manipal. My intere
 ## About
 - 🔭 I’m currently working on **AI research projects and Cybersecurity**
 
-- 🌱 I’m currently learning **TensorFlow**
+- 🌱 I’m currently learning **PyTorch**
 
 - 👯 I’m looking to collaborate on **AI, DL, Cybersecurity, Web dev**
 
