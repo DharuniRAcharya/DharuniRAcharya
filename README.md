@@ -42,11 +42,11 @@ I'm a B.Tech Computer Science and Engineering undergrad @MIT, Manipal. My intere
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" padding="15"/> </a> </p>
 
 <h3 align="left">📈 My Github Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
-<p><img align="left" padding="30" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharuniracharya&show_icons=true&theme=dark&locale=en&layout=compact" alt="dharuniracharya" /></p>
+<p><img align="left" padding="40" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharuniracharya&show_icons=true&theme=dark&locale=en&layout=compact" alt="dharuniracharya" /></p>
 <br>
-<p>&nbsp;<img align="left" padding="30" padding-bottom="50" src="https://github-readme-stats.vercel.app/api?username=dharuniracharya&show_icons=true&theme=dark&locale=en" alt="dharuniracharya" /></p>
+<p>&nbsp;<img align="left" padding="40" padding-bottom="50" src="https://github-readme-stats.vercel.app/api?username=dharuniracharya&show_icons=true&theme=dark&locale=en" alt="dharuniracharya" /></p>
 <br>
 <hr width="60%" >
 
