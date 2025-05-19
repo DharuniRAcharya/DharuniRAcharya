@@ -4,7 +4,7 @@
 I'm a B.Tech Computer Science and Engineering undergrad @MIT, Manipal. My interested domains include coding, AI, Web dev, cybersecurity and cryptography.
 
 ## About
-- 🔭 I’m currently working on **AI research projects and Cybersecurity**
+- 🔭 I’m currently working on **AI projects and Cybersecurity along with DSA**
 
 - 🌱 I’m currently learning **PyTorch**
 
