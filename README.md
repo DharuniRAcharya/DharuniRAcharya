@@ -77,6 +77,8 @@ I'm a B.Tech Computer Science and Engineering undergrad @MIT, Manipal. My intere
       &nbsp;
       <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" />
       &nbsp;
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+      &nbsp;
       <img src="https://img.shields.io/badge/Flask-000000.svg?style=flat-square&logo=flask&logoColor=white"/>
       &nbsp;
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
